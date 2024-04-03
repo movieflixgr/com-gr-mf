@@ -3,7 +3,7 @@
     {
       "isLive": true,
       "isWorking": true,
-      "isTest": false,
+      "isTest": true,
       "showAds": false,
       "showBannerAds": false,
       "showInterstitialAds": true,
