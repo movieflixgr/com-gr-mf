@@ -4,7 +4,7 @@
       "isLive": true,
       "isWorking": true,
       "isTest": true,
-      "showAds": false,
+      "showAds": true,
       "showBannerAds": false,
       "showInterstitialAds": true,
       "showRewardedInterstitialAds": false,
