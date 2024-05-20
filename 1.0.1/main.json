@@ -45,7 +45,7 @@
       "MoreContentOption": false,
       "AddContentOption": true,
       "CalculateAndSendTimeSpentInActivity": true,
-      "CalculateCurentViewers": true,
+      "CalculateCurentViewers": false,
       "AddContentFormUrl": "https://movieflixforusers.vercel.app/addcontentform.html",
       "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": true,
