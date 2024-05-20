@@ -44,7 +44,7 @@
       "CodeExample": "greek_version_2020",
       "MoreContentOption": false,
       "AddContentOption": true,
-      "CalculateAndSendTimeSpentInActivity": true,
+      "CalculateAndSendTimeSpentInActivity": false,
       "CalculateCurentViewers": false,
       "AddContentFormUrl": "https://movieflixforusers.vercel.app/addcontentform.html",
       "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
